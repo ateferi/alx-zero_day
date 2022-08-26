@@ -1,0 +1,9 @@
+vi README.md
+
+--make changes and save
+
+git add README.md
+
+git commit -M "updated readme"
+
+
